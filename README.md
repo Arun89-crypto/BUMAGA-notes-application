@@ -11,6 +11,9 @@
 ### What is this About ?
 This is a simple notes application which uses firebase for authentication and storing the user data.
 
+<p align="center">
+  <img src="./src/Assets/Images/img.png"></img>
+</p>
 
 ## How to Use the Code
 * To Clone the repo run the command given below:

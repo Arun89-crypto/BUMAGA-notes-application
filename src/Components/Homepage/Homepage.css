@@ -1,0 +1,27 @@
+.homepage__master {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+.signin__button {
+  color: #fe5f55;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #fe5f55;
+  background: none;
+  margin-top: 10%;
+}
+.signin__button > p {
+  margin-left: 10px;
+}
+.CurvetopLeft {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.CurvebottomRight {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 200px;
+}

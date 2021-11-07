@@ -52,6 +52,8 @@ function Homepage() {
                         <p>Sign in with Google</p>
                     </button>
                 </div>
+                <br></br>
+                <p>Made with ❤️ by @ar_8creax9</p>
             </div>
             <img src={CurvetopLeft} alt="CurvetopLeft" className="CurvetopLeft"></img>
             <img src={CurvebottomRight} alt="CurvebottomRight" className="CurvebottomRight"></img>
